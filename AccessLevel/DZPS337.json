@@ -1,7 +1,8 @@
 {
   "username": "DZPS337",
-  "name": "Andre Mata",
+  "name": "teste para teste",
   "email": "andre.mata@volkswagen.pt",
-  "role": "root",
+  "role": "operator",
+  "password": "VW_PALMELA_2025",
   "status": "Active"
 }
